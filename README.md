@@ -34,7 +34,7 @@ This is the backend service for a full-stack Business Intelligence dashboard. It
 ## ⚙️ Running Locally
 
 1.  Clone the repository:
-    `git clone https://github.com/your-username/supply-chain-backend.git`
+    `git clone https://github.com/shaina-gh/supply-chain-backend.git`
 2.  Navigate into the directory:
     `cd supply-chain-backend`
 3.  Install dependencies:
